@@ -1,6 +1,6 @@
 public class MatrixOperations {
     
-    // Function to add two matrices.2020
+    // Function to add two matrices.20
     public static int[][] add(int[][] A, int[][] B) {
         int rows = A.length;
         int cols = A[0].length;
