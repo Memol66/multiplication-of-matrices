@@ -1,6 +1,7 @@
+// 200000000000000000000000000000
 public class MatrixOperations {
     
-    // Function to add two matrices.200000000000000000000000000000
+    // Function to add two matrices.
     public static int[][] add(int[][] A, int[][] B) {
         int rows = A.length;
         int cols = A[0].length;
